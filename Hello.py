@@ -26,3 +26,6 @@ for x in fruits:
 for counter in range (1,11):
     print(counter)
 print("Go!")
+
+red_team = ["Sue" , "Anna", "Emily", "Simar"]
+print("The Red Team members are:")
